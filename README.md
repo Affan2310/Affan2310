@@ -1,3 +1,7 @@
+![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
+<h1 align="center">Hi 👋, I'm Mohammed Affan</h1>
+<h3 align="center">Bridging DevOps and the Cloud for Efficiency</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # 💫 About Me:
 🔭 I’m currently working on Hands-on with DevOps tools and shaping cloud solutions on Azure and AWS.<br><br>🌱 I’m currently learning Steadily mastering DevOps tools while diving deep into Azure and AWS cloud ecosystems.<br><br>👯 I’m looking to collaborate on DevOps and Cloud projects to innovate and optimize.<br><br>🤝 I’m looking for help with Exploring opportunities for DevOps and Cloud knowledge exchange and support.<br><br>💬 Ask me about DevOps strategies, cloud architecture, and optimizing CI/CD pipelines.<br><br>⚡ Fun fact I like my bed more than I like most people
 
